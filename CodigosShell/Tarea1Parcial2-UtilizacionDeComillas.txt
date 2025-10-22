@@ -1,0 +1,8 @@
+Comando1: echo 'comillas sencillas "y unas dobles" en una lìnea'
+Descripciòn: imprime en pantalla todo los caràcteres (argumento) que se encuentra entre las dos comillas simples
+
+Comando2: echo "numero de archivos es `ls|wc -|` en `pwd`"
+Descripciòn: imprime en pantalla la cadena entre comillas dobles e interpola el valor del contador de archivos descrito por (ls|wc -l) en el directorio actual (pwd)
+
+Comando3: echo El valor de \$x es $x
+Descripciòn: imprime en pantalla la cadena "El valor de \$x es (valor de la variable $x)", ignorando la variable $x (sintaxis para interpolar el valor de variables) 

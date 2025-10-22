@@ -1,0 +1,11 @@
+comando 1: $#
+Contiene la cantidad de argumentos ingresados en la terminal despues del comando de ejecución del script
+
+comando 2: $0
+Contiene la el nombre del archivo que se ejecuta
+
+comando 3: $*
+Es una cadena que contiene todos los caracteres ingresados despues del comando de ejecución del script
+
+comando 4: $@
+Es un arreglo que contiene los argumentos ingresados en la terminal despues del comando de ejecución del script
