@@ -1,0 +1,7 @@
+La libreria JSON de perl permite manipular datos en en formato json, efectivo cuando
+se estan tratando datos con dicha estructura, regularmente en la programación web.
+
+Script:
+Se define una estructura de datos en formato json con 3 parametros 'clave-valor' para 
+despues poder acceder a los valores haciendo uso de las funciones de la libreria por medio
+de la clave de cada parametro
